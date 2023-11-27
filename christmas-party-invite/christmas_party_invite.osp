@@ -1391,682 +1391,6 @@
      {
       "co": {
        "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": 61.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": 467.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": 527.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "anchor": 0,
-   "channel_filter": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "channel_mapping": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "display": 0,
-   "duration": 3600.0,
-   "effects": [],
-   "end": 8.759374488292131,
-   "gravity": 4,
-   "has_audio": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "has_video": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "id": "OSVSYS30GY",
-   "layer": 4000000,
-   "location_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "location_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "mixing": 0,
-   "origin_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.5
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "origin_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.5
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "parentObjectId": "",
-   "perspective_c1_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c1_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c2_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c2_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c3_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c3_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c4_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c4_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "position": 7.45,
-   "reader": {
-    "acodec": "",
-    "audio_bit_rate": 0,
-    "audio_stream_index": -1,
-    "audio_timebase": {
-     "den": 1,
-     "num": 1
-    },
-    "channel_layout": 4,
-    "channels": 0,
-    "display_ratio": {
-     "den": 3,
-     "num": 2
-    },
-    "duration": 3600.0,
-    "file_size": "3110400",
-    "fps": {
-     "den": 1,
-     "num": 30
-    },
-    "has_audio": false,
-    "has_single_image": true,
-    "has_video": true,
-    "height": 1080,
-    "interlaced_frame": false,
-    "metadata": {},
-    "path": "assets/christmas-text-2d.png",
-    "pixel_format": -1,
-    "pixel_ratio": {
-     "den": 1,
-     "num": 1
-    },
-    "sample_rate": 0,
-    "top_field_first": true,
-    "type": "QtImageReader",
-    "vcodec": "",
-    "video_bit_rate": 0,
-    "video_length": "108000",
-    "video_stream_index": -1,
-    "video_timebase": {
-     "den": 30,
-     "num": 1
-    },
-    "width": 720,
-    "media_type": "image",
-    "id": "8A2NG09DKO"
-   },
-   "rotation": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "scale": 1,
-   "scale_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "scale_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "shear_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "shear_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "start": 0,
-   "time": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "volume": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "wave_color": {
-    "alpha": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 255.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    },
-    "blue": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 255.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    },
-    "green": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 123.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    },
-    "red": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 0.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    }
-   },
-   "waveform": false,
-   "file_id": "8A2NG09DKO",
-   "title": "christmas-text-2d.png",
-   "image": "thumbnail/8A2NG09DKO.png"
-  },
-  {
-   "alpha": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
        "Y": 1.0
       },
       "handle_left": {
@@ -2720,6 +2044,699 @@
    "file_id": "5GA80GRU7W",
    "title": "we-wish-you-a-merry-christmas-hip-hop-version-music-for-video-vlog-172818.mp3",
    "image": "thumbnail/5GA80GRU7W.png"
+  },
+  {
+   "alpha": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     },
+     {
+      "co": {
+       "X": 76.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     },
+     {
+      "co": {
+       "X": 136.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     },
+     {
+      "co": {
+       "X": 541.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     },
+     {
+      "co": {
+       "X": 601.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "anchor": 0,
+   "channel_filter": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "channel_mapping": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "display": 0,
+   "duration": 3600.0,
+   "effects": [],
+   "end": 10,
+   "gravity": 4,
+   "has_audio": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "has_video": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "id": "0AE0C1L47B",
+   "layer": 4000000,
+   "location_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "location_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "mixing": 0,
+   "origin_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.5
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "origin_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.5
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "parentObjectId": "",
+   "perspective_c1_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c1_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c2_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c2_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c3_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c3_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c4_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c4_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "position": 7.487096774193551,
+   "reader": {
+    "acodec": "",
+    "audio_bit_rate": 0,
+    "audio_stream_index": -1,
+    "audio_timebase": {
+     "den": 1,
+     "num": 1
+    },
+    "channel_layout": 4,
+    "channels": 0,
+    "display_ratio": {
+     "den": 3,
+     "num": 2
+    },
+    "duration": 3600.0,
+    "file_size": "3110400",
+    "fps": {
+     "den": 1,
+     "num": 30
+    },
+    "has_audio": false,
+    "has_single_image": true,
+    "has_video": true,
+    "height": 1080,
+    "interlaced_frame": false,
+    "metadata": {},
+    "path": "assets/christmas-text-hg-13.png",
+    "pixel_format": -1,
+    "pixel_ratio": {
+     "den": 1,
+     "num": 1
+    },
+    "sample_rate": 0,
+    "top_field_first": true,
+    "type": "QtImageReader",
+    "vcodec": "",
+    "video_bit_rate": 0,
+    "video_length": "108000",
+    "video_stream_index": -1,
+    "video_timebase": {
+     "den": 30,
+     "num": 1
+    },
+    "width": 720,
+    "media_type": "image",
+    "id": "HWULCV03YP",
+    "image": "thumbnail/HWULCV03YP.png"
+   },
+   "rotation": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "scale": 1,
+   "scale_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "scale_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "shear_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "shear_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "start": 1.2537634408602174,
+   "time": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "volume": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "wave_color": {
+    "alpha": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    },
+    "blue": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    },
+    "green": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 123.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    },
+    "red": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 0.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    }
+   },
+   "waveform": false,
+   "file_id": "HWULCV03YP",
+   "title": "christmas-text-hg-13.png",
+   "image": "thumbnail/HWULCV03YP.png"
   }
  ],
  "effects": [],
@@ -2924,6 +2941,150 @@
    "media_type": "audio",
    "id": "5GA80GRU7W",
    "image": "thumbnail/5GA80GRU7W.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 3,
+    "num": 2
+   },
+   "duration": 3600.0,
+   "file_size": "3110400",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 1080,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "assets/christmas-text-bookclub.png",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 720,
+   "media_type": "image",
+   "id": "V3MGVUA8RD",
+   "image": "thumbnail/V3MGVUA8RD.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 3,
+    "num": 2
+   },
+   "duration": 3600.0,
+   "file_size": "3110400",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 1080,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "assets/christmas-text-hg-6.png",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 720,
+   "media_type": "image",
+   "id": "OHDAPQB1XY",
+   "image": "thumbnail/OHDAPQB1XY.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 3,
+    "num": 2
+   },
+   "duration": 3600.0,
+   "file_size": "3110400",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 1080,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "assets/christmas-text-hg-13.png",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 720,
+   "media_type": "image",
+   "id": "HWULCV03YP",
+   "image": "thumbnail/HWULCV03YP.png"
   }
  ],
  "duration": 300,
@@ -3614,7 +3775,7 @@
      "file_id": "5GA80GRU7W",
      "title": "we-wish-you-a-merry-christmas-hip-hop-version-music-for-video-vlog-172818.mp3"
     },
-    "transaction": "5cd6c4ac-b284-4423-84e4-04dcae1efa53"
+    "transaction": "0b08ed7f-8b11-4e04-8802-4b698d37db89"
    },
    {
     "type": "update",
@@ -4275,7 +4436,7 @@
      "title": "christmas-text-2d.png",
      "image": "../../thumbnail/8A2NG09DKO.png"
     },
-    "transaction": "5fc6dbca-9c8f-4654-b461-96acb2ade550"
+    "transaction": "748ec6ad-2f32-46c7-abcc-880b10841c0e"
    },
    {
     "type": "update",
@@ -4920,7 +5081,7 @@
      "title": "we-wish-you-a-merry-christmas-hip-hop-version-music-for-video-vlog-172818.mp3",
      "image": "../../thumbnail/5GA80GRU7W.png"
     },
-    "transaction": "4f521dd1-6d09-4459-8bfb-97b83ed9acfc"
+    "transaction": "ee8e3576-2b30-403f-aff7-73769226d589"
    },
    {
     "type": "update",
@@ -6171,7 +6332,7 @@
      "title": "we-wish-you-a-merry-christmas-hip-hop-version-music-for-video-vlog-172818.mp3",
      "image": "../../thumbnail/5GA80GRU7W.png"
     },
-    "transaction": "95a2ba6a-8313-4c42-a08f-f404fd8d09e9"
+    "transaction": "25737833-55c9-4649-9052-ca6331998667"
    },
    {
     "type": "update",
@@ -6846,7 +7007,7 @@
      "title": "christmas_tree_-_54032 (720p).mp4",
      "image": "../../thumbnail/C6H2R5IC5B.png"
     },
-    "transaction": "67e8da5d-2cc7-4f9f-b6ee-f6fb93041f13"
+    "transaction": "dd34fdc5-abdf-4cb3-8c96-cd77e20b51cf"
    },
    {
     "type": "update",
@@ -7507,7 +7668,7 @@
      "title": "merry-christmas.png",
      "image": "../../thumbnail/3S7J63NXDI.png"
     },
-    "transaction": "c2b8f130-2c45-451f-81aa-25ea837d602d"
+    "transaction": "afd67acc-f0c8-4268-bcda-baedf2b52a41"
    },
    {
     "type": "update",
@@ -8182,7 +8343,7 @@
      "title": "christmas_tree_-_54032 (720p).mp4",
      "image": "../../thumbnail/C6H2R5IC5B.png"
     },
-    "transaction": "b66b0662-31d2-4654-9216-4d63a9d0930b"
+    "transaction": "580ff269-af0a-4adc-b7c0-674c75be6b55"
    },
    {
     "type": "update",
@@ -9484,7 +9645,7 @@
      "title": "christmas_tree_-_54032 (720p).mp4",
      "image": "../../thumbnail/C6H2R5IC5B.png"
     },
-    "transaction": "825ffe9c-1983-4051-84fb-a813c1fd7f03"
+    "transaction": "88dce506-7a5d-48b3-a28b-93eca7509888"
    },
    {
     "type": "update",
@@ -10145,7 +10306,7 @@
      "title": "merry-christmas.png",
      "image": "../../thumbnail/3S7J63NXDI.png"
     },
-    "transaction": "d13cf78b-986b-4911-8cb7-54238b96465e"
+    "transaction": "2f161dd8-5d06-49c9-b14e-024f6dbdc66c"
    },
    {
     "type": "update",
@@ -11428,7 +11589,7 @@
      "title": "merry-christmas.png",
      "image": "../../thumbnail/3S7J63NXDI.png"
     },
-    "transaction": "cd8ed861-840a-4d0c-93bb-3e551c68652d"
+    "transaction": "f96d5dda-6cf7-41a7-9a1a-79ee449b6278"
    },
    {
     "type": "update",
@@ -12089,7 +12250,7 @@
      "title": "christmas-text-2d.png",
      "image": "../../thumbnail/8A2NG09DKO.png"
     },
-    "transaction": "fa4ccdfc-f5a9-4a27-aee9-dcacc4573387"
+    "transaction": "678bcda0-1201-4f0b-bb16-873979b8297d"
    },
    {
     "type": "update",
@@ -13372,7 +13533,7 @@
      "title": "christmas-text-2d.png",
      "image": "../../thumbnail/8A2NG09DKO.png"
     },
-    "transaction": "95be71e5-7b52-4fc8-9b49-3761c43815a3"
+    "transaction": "05993ce9-0e75-423a-a260-5c6182a6b047"
    },
    {
     "type": "delete",
@@ -13431,7 +13592,7 @@
      "id": "CE4HQ7HK3C",
      "image": "thumbnail/CE4HQ7HK3C.png"
     },
-    "transaction": "fa1f1c99-42a6-425b-bc49-01679070edf2"
+    "transaction": "350fd929-303e-4faa-8286-5325b30ec86d"
    },
    {
     "type": "delete",
@@ -13490,7 +13651,7 @@
      "id": "AG7ZLZ4IMG",
      "image": "thumbnail/AG7ZLZ4IMG.png"
     },
-    "transaction": "fa1f1c99-42a6-425b-bc49-01679070edf2"
+    "transaction": "712aa803-aace-4ff4-90de-87c5b03b9b83"
    },
    {
     "type": "delete",
@@ -13549,7 +13710,7 @@
      "id": "C0YDC7KER7",
      "image": "thumbnail/C0YDC7KER7.png"
     },
-    "transaction": "fa1f1c99-42a6-425b-bc49-01679070edf2"
+    "transaction": "4d369394-bc64-4ff5-a0a2-0b7dc5dbcd30"
    }
   ],
   "redo": []
